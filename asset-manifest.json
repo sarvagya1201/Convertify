@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Convertify/static/css/main.d8e8fecc.css",
+    "main.js": "/Convertify/static/js/main.22236609.js",
+    "static/js/453.7d99a500.chunk.js": "/Convertify/static/js/453.7d99a500.chunk.js",
+    "index.html": "/Convertify/index.html",
+    "main.d8e8fecc.css.map": "/Convertify/static/css/main.d8e8fecc.css.map",
+    "main.22236609.js.map": "/Convertify/static/js/main.22236609.js.map",
+    "453.7d99a500.chunk.js.map": "/Convertify/static/js/453.7d99a500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e8fecc.css",
+    "static/js/main.22236609.js"
+  ]
+}
